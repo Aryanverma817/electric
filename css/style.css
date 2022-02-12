@@ -1,0 +1,156 @@
+header{
+  background-color: #11468F;
+}
+#nav{
+  padding:3% 10%;
+
+}
+#nav-col{
+  padding-top: 40px;
+
+}
+.navbar-brand{
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+h1{
+  font-family: Montserrat;
+font-weight: bold;
+font-size: 2rem;
+
+}
+h3{
+  font-family: ubuntu;
+}
+
+#nav-text{
+color: white;
+text-align: center;
+padding: 5% 0%;
+}
+#nav-t2{
+  margin-top: 3%;
+}
+#fafa-i{
+  transform:rotate(90deg);
+  font-size: 30px;
+  margin-top: 20px;
+}
+#fafa-i:hover{
+  color:black;
+
+}
+#nav-c2{
+  padding: 5% 5%;
+  text-align: center;
+}
+#n-btn{
+  margin-left: 10px;
+border-radius:none;
+}
+@media (max-width:993px) {
+#fafa-i{
+  transform: rotate(180deg);
+
+}
+#nav-button{
+  width: 200px;
+}
+}
+
+
+.form-inline{
+padding:2%;
+}
+#form-search{
+  width: 150px;
+  height: 50px;
+  flex: 1;
+  border: none;
+  border-radius: none;
+  outline: none;
+}
+#nearme{
+  height: 50px;
+  width:80px;
+  background-color: white;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 18px;
+  align-items:center;
+  color: #777;
+
+}
+#nearme{
+position: absolute;
+margin-left: 290px;
+}
+@media (max-width:993px) {
+  #nearme{
+
+  margin-left: 150px;
+  }
+
+}
+/*end search  */
+#font-f{
+  font-size: 60px;
+  padding-bottom: 30px;
+  color: #396EB0;
+margin:10px 0;
+}
+#font-f:hover{
+  color: #2f598d;
+}
+#feat-f{
+  padding: 10px;
+}
+#f-row{
+  text-align: center;
+  }
+#font-section{
+  padding: 3% 15%;
+}
+/* advantages-co */
+#advantages-co{
+  justify-content: center;
+  background-color:#11468F;
+  color: white;
+  padding: 4% 0;
+}
+#advcontainer{
+  padding:2% 10%;
+}
+/*maps-counting*/
+
+/* busbusiness */
+#business{
+  padding: 3% 15px;
+  text-align: center;
+
+}
+
+/* Footer */
+#fao{
+margin-left: 10px;
+font-size: 3rem;
+}
+#footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 3% 15%;
+}
+
+/*second page start*/
+#nearby{
+  padding: 3% 5%;
+  text-align: center;
+}
+
+
+
+
+/*second page end*/
